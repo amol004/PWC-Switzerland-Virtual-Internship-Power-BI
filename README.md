@@ -8,4 +8,9 @@
   
   4. Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-[churn analysis.pdf](https://github.com/user-attachments/files/16949130/churn.analysis.pdf)
+![churn analysis_page-0002](https://github.com/user-attachments/assets/dad59dc6-54de-454e-8080-92bef3fc9e7d)
+
+![churn analysis_page-0003](https://github.com/user-attachments/assets/e1494d10-e0a3-4efe-b5b0-e08f64a701fe)
+
+
+
